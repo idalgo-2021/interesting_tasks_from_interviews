@@ -11,3 +11,19 @@
 
 ## Архитектура и разработка ПО
 
+### 1C
+* 2015 Сималенд(Россия) Программист
+[Программист](sima_land/)
+
+    <details>
+    <summary>Нажмите, чтобы развернуть</summary>
+    
+    ```markdown
+    !include sima_land/README.md
+
+
+
+    ![](sima_land/README.md)
+
+    </details>
+
